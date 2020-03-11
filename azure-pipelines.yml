@@ -1,6 +1,5 @@
 trigger:
 - '*'
-// multistage 
 
 variables:
   buildConfiguration: 'Release'
